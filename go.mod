@@ -3,7 +3,7 @@ module github.com/prometheus/common
 go 1.18
 
 require (
-	github.com/alecthomas/kingpin/v2 v2.3.1
+	github.com/alecthomas/kingpin/v2 v2.3.2
 	github.com/go-kit/log v0.2.1
 	github.com/golang/protobuf v1.5.2
 	github.com/julienschmidt/httprouter v1.3.0
@@ -23,8 +23,7 @@ require (
 	github.com/go-logfmt/logfmt v0.5.1 // indirect
 	github.com/jpillora/backoff v1.0.0 // indirect
 	github.com/prometheus/procfs v0.8.0 // indirect
-	github.com/stretchr/testify v1.8.0 // indirect
-	github.com/xhit/go-str2duration v1.2.0 // indirect
+	github.com/xhit/go-str2duration/v2 v2.1.0 // indirect
 	golang.org/x/sys v0.5.0 // indirect
 	golang.org/x/text v0.7.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
